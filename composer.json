@@ -1,0 +1,18 @@
+{
+    "name": "hajiphp/myapi",
+    "description": "hello",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hajiphp\\Myapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MrKigga",
+            "email": "mrhironull@gmail.com"
+        }
+    ],
+    "require": {}
+}
